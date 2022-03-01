@@ -6,6 +6,8 @@
 - 🤔 I’m looking for help with front end development 
 - 💬 Ask me about solidity or any tech related stuff 
 - 📫 How to reach me: https://www.linkedin.com/in/matthew-segura-27a674199/
+- [Medium - @a1tf4](https://medium.com/@a1tf4) 
+
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can only work if i'm listening to music 
 
