@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I can only work if i'm listening to music 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mattsegura/github-readme-stats)
+[![Matthews GitHub stats](https://github-readme-stats.vercel.app/api?username=mattsegura)](https://github.com/mattsegura/github-readme-stats)
