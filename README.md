@@ -7,6 +7,6 @@
 - 💬 Ask me about solidity or any tech related stuff 
 - 📫 How to reach me: - [Medium - @a1tf4](https://medium.com/@a1tf4) 
 - 😄 Pronouns: he/him 
-- ⚡ Fun fact: I can only work if i'm listening to music 
+- ⚡ Fun fact: I've been playing the saxaphone for 10 years! 🎷
 
 [![Matthews GitHub stats](https://github-readme-stats.vercel.app/api?username=mattsegura)](https://github.com/mattsegura/github-readme-stats)
