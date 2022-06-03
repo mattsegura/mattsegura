@@ -1,6 +1,6 @@
 ### Hello, I'm Matthew Segura! 👋
 
-- 🔭 I’m currently working on decentralized applications
+- 🔭 I’m currently working back-end applications
 - 🌱 I’m currently learning blockchain development 
 - 👯 I’m looking to collaborate on a Web3 project
 - 🤔 I’m looking for help with front end development 
